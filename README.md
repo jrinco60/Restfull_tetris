@@ -24,12 +24,8 @@ girar<br>
 
 Se espera un String con el siguiente formato<br>
 "X-0,5-X-X/X-1,5-X-X/2,4-2,5-X-X/X-X-X-X"<br>
-X = las posiciones que no contienen información.
+X = las posiciones que no contienen información.<br>
 0,5 = las coordenadas y,x en donde se debe posicionar la ficha, posición inicial de 0 en y y de 5 en x (mitad del tablero), así sucesivamente con cada uno de los 4 puntos de cada ficha. 
-Las ordenes que deben ser recibidas serán las siguientes.<br>
-traer =  para que se envié la ficha inicializada. <br>
-izquierda <br>
-derecha<br>
-girar<br>
+
 
 
