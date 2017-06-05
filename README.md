@@ -3,7 +3,20 @@ Tetris en consola utilizando Restfull
 
 Codigo del tableo.
 
-**************************************************
+*******************************************************************************************************************
+
+PARA PROBAR EL TABLERO
+
+DESCOMPRIMIR EL ARCHIVO TABLER.7z
+ABRIR LA CARPETA CON NETBEANS
+ANTES DE CORRER EL TABLERO DEBE TENER CORRIENDO UN SERVICIO WEB CON LA FICHA
+LA FICHA DEBE ESTAR ENTREGANDO EL STRING CON EL FORMATO SOLICITADO
+EL ARCHIVO SimpleRESTweb.7z ES UN EJEMPLO CON UN SERVICIO WEB YA ENTREGANDO LA FICHA CON EL FORMATO REQUERIDO
+HAGAN DEPLOY AL PROYECTO SimpleRESTweb Y LUEGO PUEDEN CORRER EL TABLERO PARA QUE SE GUIEN.
+
+*******************************************************************************************************************
+
+
 
 Para probar el tablero:<br><br>
 Crea un nuevo proyecto.<br>
